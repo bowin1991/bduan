@@ -378,7 +378,7 @@
 .u12 {
   border-width:0px;
   position:absolute;
-  left:0px;
+  left:-2px;
   top:0px;
   width:375px;
   height:50px;
@@ -406,7 +406,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:375px;
+  width:373px;
   height:50px;
 }
 #u11-2 {
@@ -414,7 +414,7 @@
   position:absolute;
   left:0px;
   top:50px;
-  width:375px;
+  width:373px;
   height:50px;
 }
 #u11-3 {
@@ -422,7 +422,7 @@
   position:absolute;
   left:0px;
   top:100px;
-  width:375px;
+  width:373px;
   height:50px;
 }
 #u11-4 {
@@ -430,7 +430,7 @@
   position:absolute;
   left:0px;
   top:150px;
-  width:375px;
+  width:373px;
   height:50px;
 }
 #u11-5 {
@@ -438,7 +438,7 @@
   position:absolute;
   left:0px;
   top:200px;
-  width:375px;
+  width:373px;
   height:50px;
 }
 #u11-6 {
@@ -446,7 +446,7 @@
   position:absolute;
   left:0px;
   top:250px;
-  width:375px;
+  width:373px;
   height:50px;
 }
 #u11-7 {
@@ -454,15 +454,15 @@
   position:absolute;
   left:0px;
   top:300px;
-  width:375px;
+  width:373px;
   height:50px;
 }
 #u11 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:50px;
-  width:375px;
+  top:46px;
+  width:373px;
   height:350px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
